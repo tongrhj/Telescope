@@ -7,7 +7,7 @@
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
-      "description": "http://noticesg.herokuapp.com"
+      "description": "noticesg.herokuapp.com"
     }
   },
   "addons": [
